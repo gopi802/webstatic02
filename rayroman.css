@@ -1,0 +1,282 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: futura-pt;
+}
+nav{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 1%;
+}
+nav div{
+    /* border: 2px solid green; */
+    margin-left: 5%;
+    /* margin-right: 5%; */
+}
+#navdiv2 ol{
+    /* border: 2px solid green; */
+    /* margin-right: 6%; */
+    width: 700px;
+    letter-spacing: 2px;
+    font-family: proxima-nova;
+    font-size: .85em;
+    display: flex;
+    list-style: none;
+    padding: 7%;
+    justify-content: space-between;
+}
+#p1{
+    background-image: url(./rayassests/Ray+Romano+Loft+renovation+nyc+brooklyn+hamptons+luxury+construction.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+#p1 h1{
+    position: absolute;
+    font-family: futura-pt;
+    font-size: 2.4em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.179487em;
+    font-style: normal;
+    box-sizing: border-box;
+    margin-left: 8%;
+    margin-top: 10%;
+    background-color: whitesmoke;
+    color: #171717;
+}
+#p1 p{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 120px;
+    font-size: 25px;
+    background-color:white ;
+    color: black;
+}
+#div2{
+    height: 450px;
+    border: 2px solid red;
+}
+#div2 h1{
+    margin-left: 15%;
+    text-transform: uppercase;
+}
+#div2 p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 18px;
+    font-weight: 30%;
+    line-height: 150%;
+}
+#p2{
+    background-image: url(./rayassests/Ray+Romano+Contracting+combination+renovation+luxury+contemporary+Upper+East+Side+NYC+Hamptons+Brooklyn+NJ.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+#p2 h1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: 40px;
+    padding: 15px 20px;
+    background-color: rgba(255, 255, 255, .6);
+    color: black;
+    /* letter-spacing: 0.179487em; */
+}
+#div3{
+    height: 450px;
+    /* border: 2px solid red; */
+}
+#div3 h1{
+    margin-left: 15%;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+#div3 p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 15px;
+    font-weight: 30%;
+    line-height: 200%;
+}
+#p3{
+    background-image: url(./rayassests/Ray+Romano+Hamptons+Sag+Harbor+renovation.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+#p3 h1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: 40px;
+    padding: 15px 20px;
+    background-color: rgba(255, 255, 255, .6);
+    color: black;
+    /* letter-spacing: 0.179487em; */
+}
+#div4 h1{
+    margin-left: 15%;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+#div4 p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 15px;
+    font-weight: 30%;
+    line-height: 200%;
+}
+#p4{
+    background-image: url(./rayassests/1040.jpeg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+#p4 h1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: 40px;
+    padding: 15px 20px;
+    background-color: rgba(255, 255, 255, .6);
+    color: black;
+    /* letter-spacing: 0.179487em; */
+}
+#div5{
+    height: 500px;
+}
+#div5 h1{
+    margin-left: 15%;
+    font-size: 20px;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+#div5 p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 15px;
+    font-weight: 30%;
+    line-height: 230%;
+}
+#p5{
+    background-image: url(./rayassests/Custom+Closet+Ray+Rompano+Contracting+NYC+Brooklyn+Upper+east+Side+NYC+renovation.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+#p5 h1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: 40px;
+    padding: 15px 20px;
+    background-color: rgba(255, 255, 255, .6);
+    color: black;
+    /* letter-spacing: 0.179487em; */
+}
+#div5 p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 15px;
+    font-weight: 30%;
+    line-height: 230%;
+}
+#div6{
+    height: 900px;
+    width: 1200px;
+    margin-left: 10%;
+    /* border: 2px solid yellow; */
+}
+#div7{
+    /* border: 2px solid red; */
+    margin-left: 5%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+#div11{
+    /* border: 2px solid red; */
+    margin-left: 5%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+#div15{
+    /* border: 2px solid red; */
+    margin-left: 5%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+#div16{
+    position: absolute;
+    left: 3%;
+}
+footer{
+    height: 200px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+}
+footer aside{
+     margin-top: 2%;
+}
+footer div{
+    border: 2px solid black;
+    width: 950px;
+    padding: 30px;
+    margin-left: 20%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#top{
+    /* text-align: center; */
+    border: 2px solid lightblue;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: 48%;
+    margin-right:48%;
+}
+#down{
+    /* text-align: center; */
+    cursor: pointer;
+    border: 2px solid lightblue;
+    border-radius: 50%;
+    margin-left: 48%;
+    margin-right:48%;
+}
+#parallax-nav{
+    position: fixed;
+    z-index: 52;
+    top: 50%;
+    right: 15px;
+    padding: 0 10px 0 0;
+    transition: opacity .3s 0s linear;
+    transform: translate3d(0, -50%, 0);
+    display: block;
+    unicode-bidi: isolate;
+    background-color: transparent;
+    cursor: pointer;
+}
+a, a:visited {
+    color: #000;
+    text-decoration: none;
+}
